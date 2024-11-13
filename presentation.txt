@@ -3,3 +3,5 @@ Charlotte
 23
 Female
 180cm
+vert
+Boston
